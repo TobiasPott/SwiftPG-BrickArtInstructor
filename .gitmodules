@@ -1,0 +1,3 @@
+[submodule "Brick Art Instructor.swiftpm"]
+	path = Brick Art Instructor.swiftpm
+	url = https://github.com/TobiasPott/SwiftPG-BAICore.git
